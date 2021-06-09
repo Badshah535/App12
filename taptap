@@ -6,6 +6,7 @@
          "interstitial_id":"ca-app-pub-3940256099942544/1033173713",
          "native_id":"ca-app-pub-3940256099942544/2247696114",
          "qureka_ads":"https://282.win.qureka.com/",
+         "Ads_url":"https://my-json-server.typicode.com/Chandresh-Mangukiya/mockjson/db";
          "status":"true",
          "splash_ads":"false"
       },
