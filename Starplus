@@ -13,11 +13,11 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"1",
-   "fb_banner":"344089280543579_352657773020063",
-   "fb_inter1":"344089280543579_352658226353351",
-   "fb_inter2":"344089280543579_352658049686702",
-   "fb_inter3":"344089280543579_352658009686706",
-   "fb_native":"344089280543579_352658313020009",
-   "fb_nativebanner":"344089280543579_352658359686671"
+   "fbad_showStatus":"0",
+   "fb_banner":"",
+   "fb_inter1":"",
+   "fb_inter2":"",
+   "fb_inter3":"",
+   "fb_native":"",
+   "fb_nativebanner":""
 }
